@@ -1,0 +1,1 @@
+zupa_killMessage = compileFinal preprocessFileLineNumbers "zupa\scripts\killMessage.sqf";
